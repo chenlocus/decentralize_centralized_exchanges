@@ -56,7 +56,7 @@ In order to gain widespread use, this system requires a platform that is flexibl
 
 ## easy for use 
 
-People who use this system don't need particular knowledge of cryptocurrency exchanges or private/public address. This requires the system can automatically integrated with clients' own wallets.  For relays, it does't need professional technical knowledge to take orders and relay to exchanges they signed up with. Stable coin is a very important concept in this system. With the development of Facebook Libra, 
+People who use this system don't need particular knowledge of cryptocurrency exchanges or private/public key. This requires the system can automatically integrated with clients' own wallets.  For relays, it does't need professional technical knowledge to take orders and relay to exchanges they signed up with. Stable coin is a very important concept in this system. With the development of Facebook Libra, 
 
 ## advance the universal Authentication
 
