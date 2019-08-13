@@ -143,11 +143,8 @@ after the order gets traded, it shows correct status.
 
 - [ ] Using Ganache or Metamask? Remix or truffle?
 - [ ] using web3 to call 'USDT' contract to transfer token to this contract.
-
-
+- [ ] order signature verification
 - [ ] link USDT deposited by trader to a UUID ( order id ).
-
-
 - [ ] map UUID to order structure.
 - [ ] release 'USDT' out from this contract according to UUID.
 - [ ] get 'EOS' wallet address from scatter wallet.
