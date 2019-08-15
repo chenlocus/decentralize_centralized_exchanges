@@ -14,8 +14,6 @@
 
 4. a website for user to login and connect to their own wallet.
 
-   ​
-
 
 
 ## buy process
@@ -43,9 +41,6 @@ place a buy order to buy  'EOS', specify price and volume.
 
     - trader's EOS wallet address
 
-      ​
-
-      ​
 
 - the amount of USDT is sent to the smart contract.
 
@@ -114,15 +109,12 @@ another user can login, take the order and relay to a crypto exchange.
 
 - relay sells EOS to crypto exchange.
 
-  ​
-
 
 after the order gets traded, it shows correct status.
 
 - relay sends message to the smart contract to indicate the amount of order filled.
 - on receiving the relay's message, contract releases the amount of USDT to trader.
 
-  ​
 
 #### 
 
@@ -150,11 +142,14 @@ after the order gets traded, it shows correct status.
 - [ ] get 'EOS' wallet address from scatter wallet.
 - [ ] arbitration mechanism if anyone cheats.
 
+## solutions for realistic issue 
 
+- [ ] how if trader want to amend/cancel a order when the order has been taken?
+      - it is possible the relay does not go to any exchange, but use their own coins.
+      - if the order goes to exchange, how can a trader authenrized to amend a relay's order?
 
+- [ ] how can relay automatically notify trader the doneVol of an order.
 
-
- 
 
 
 
